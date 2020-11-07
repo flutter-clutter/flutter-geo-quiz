@@ -1,0 +1,114 @@
+{
+  "elements": [
+    {
+      "name": {
+        "singular": "bar",
+        "plural": "bars"
+      },
+      "tags": {
+        "amenity": "bar"
+      }
+    },
+    {
+      "name": {
+        "singular": "pub",
+        "plural": "pubs"
+      },
+      "tags": {
+        "amenity": "pub"
+      }
+    },
+    {
+      "name": {
+        "singular": "McDonald's",
+        "plural": "McDonald's"
+      },
+      "tags": {
+        "brand": "McDonald's",
+        "amenity": "fast_food",
+        "cuisine": "burger"
+      }
+    },
+    {
+      "name": {
+        "singular": "street lamp",
+        "plural": "street lamps"
+      },
+      "tags": {
+        "highway": "street_lamp"
+      }
+    },
+    {
+      "name": {
+        "singular": "tree",
+        "plural": "trees"
+      },
+      "tags": {
+        "natural": "tree"
+      }
+    },
+    {
+      "name": {
+        "singular": "memorial",
+        "plural": "memorials"
+      },
+      "tags": {
+        "historic": "memorial"
+      }
+    },
+    {
+      "name": {
+        "singular": "bus stop",
+        "plural": "bus stops"
+      },
+      "tags": {
+        "highway": "bus_stop"
+      }
+    },
+    {
+      "name": {
+        "singular": "fire station",
+        "plural": "fire stations"
+      },
+      "tags": {
+        "amenity": "fire_station"
+      }
+    },
+    {
+      "name": {
+        "singular": "bench",
+        "plural": "benches"
+      },
+      "tags": {
+        "amenity": "bench"
+      }
+    },
+    {
+      "name": {
+        "singular": "village",
+        "plural": "villages"
+      },
+      "tags": {
+        "place": "village"
+      }
+    },
+    {
+      "name": {
+        "singular": "post box",
+        "plural": "post boxes"
+      },
+      "tags": {
+        "amenity": "post_box"
+      }
+    },
+    {
+      "name": {
+        "singular": "recycling container",
+        "plural": "recycling containers"
+      },
+      "tags": {
+        "amenity": "recycling"
+      }
+    }
+  ]
+}
